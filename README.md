@@ -1,2 +1,2 @@
-#  Improving image based object detection of street scenes with the help of depth estimations
+#  Improving Image Based Object Detection of Street Scenes with the Help of Depth Estimations
 In autonomous driving one of the major issues we are faced with, is the question how an autonomous vehicle percieves it's surrounding eviroment, which is given by a street scence. When percieving a street scene by an autonomous vehicle one of the most important tasks then is to detect all of the scenes objects, specially those objects that pose a danger for driving.  
