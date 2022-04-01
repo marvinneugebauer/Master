@@ -5,4 +5,4 @@ In the following we propose and exermine a possible way how to improve the perfo
 <a id="1">[1]</a> 
 Cordts, Marius, et al. (2015). 
 The cityscapes dataset.
-Communications of the ACM, 11(3), 147-148.
+CVPR Workshop on the Future of Datasets in Vision. Vol. 2. sn.
