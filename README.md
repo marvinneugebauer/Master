@@ -3,6 +3,6 @@
 In the following we propose and exermine a possible way how to improve the performance Semantic Segmentation Networks with the help of depth estimations. In general depth estimations are used for predicting the distance of objects relative to a camera. Here we utilize depth estimations as a backup for the Semantic Segmentation Network and derive their common prediction, which is compared to 
 #  References
 <a id="1">[1]</a> 
-Dijkstra, E. W. (1968). 
+Cordts, Marius, et al. (2015). 
 Go to statement considered harmful. 
 Communications of the ACM, 11(3), 147-148.
