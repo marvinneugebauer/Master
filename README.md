@@ -16,3 +16,8 @@ Lost and found: detecting small road hazards for self-driving vehicles.
 Zhu, Yi, et al. (2019). 
 Improving semantic segmentation via video propagation and label relaxation.
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
+
+<a id="1">[4]</a> 
+Lee, Jin Han, et al. (2019). 
+From big to small: Multi-scale local planar guidance for monocular depth estimation.
+arXiv preprint arXiv:1907.10326 (2019).
