@@ -6,3 +6,8 @@ In the following we propose and exermine a possible way how to improve the perfo
 Cordts, Marius, et al. (2015). 
 The cityscapes dataset.
 CVPR Workshop on the Future of Datasets in Vision. Vol. 2. sn, 2015.
+
+<a id="1">[1]</a> 
+Cordts, Marius, et al. (2015). 
+The cityscapes dataset.
+CVPR Workshop on the Future of Datasets in Vision. Vol. 2. sn, 2015.
