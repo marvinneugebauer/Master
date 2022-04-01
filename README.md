@@ -4,5 +4,5 @@ In the following we propose and exermine a possible way how to improve the perfo
 #  References
 <a id="1">[1]</a> 
 Cordts, Marius, et al. (2015). 
-Go to statement considered harmful. 
+The cityscapes dataset.
 Communications of the ACM, 11(3), 147-148.
