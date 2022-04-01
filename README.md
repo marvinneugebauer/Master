@@ -2,6 +2,7 @@
 **Abstract:** One of the major issues in autonomous driving is the question how an autonomous vehicle correctly percieves it's surrounding eviroment, which is given by a street scence. That means once a street scene is percieved  by an autonomous vehicle, how it can be achieved that all of the scenes objects are detected successfully, specially those objects that pose a danger for driving. A state of the art approach to that problem is to let semantic segmentation algorithms do the task of dectecting the different objects that are in the scene. Those sematic segmentation algorithms use an adapted form of Convolutional Neural Networks (CNNs), so called Semantic Segmentation Networks. Despite the fact that Semantic Segmentation Networks has been increasingly successful in performing on object dection tasks in recent years, their perfomance is still somewhat limited. Even the best Semantic Segmentation Networks can not provide a level of accuracy, where autonomous driving can be seen as save.
 In the following we propose and exermine a possible way how to improve the performance Semantic Segmentation Networks with the help of depth estimations. In general depth estimations are used for predicting the distance of objects relative to a camera. Here we utilize depth estimations as a backup for the Semantic Segmentation Network and derive their common prediction, which is compared to
 #  Method
+#  Evaluation Results
 #  References
 <a id="1">[1]</a> 
 Cordts, Marius, et al. (2015). 
@@ -21,4 +22,10 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 <a id="1">[4]</a> 
 Lee, Jin Han, et al. (2019). 
 From big to small: Multi-scale local planar guidance for monocular depth estimation.
+arXiv preprint arXiv:1907.10326 (2019).
+
+
+<a id="1">[5]</a> 
+Godard, Clément, Oisin Mac Aodha, and Gabriel J. Brostow (2017). 
+Unsupervised monocular depth estimation with left-right consistency.
 arXiv preprint arXiv:1907.10326 (2019).
