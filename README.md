@@ -11,3 +11,8 @@ CVPR Workshop on the Future of Datasets in Vision. Vol. 2. sn, 2015.
 Pinggera, Peter, et al. (2016). 
 Lost and found: detecting small road hazards for self-driving vehicles.
 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2016.
+
+<a id="1">[3]</a> 
+Zhu, Yi, et al. (2019). 
+Improving semantic segmentation via video propagation and label relaxation.
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
