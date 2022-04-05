@@ -9,6 +9,7 @@ In the following we propose and exermine a possible way how to improve the perfo
 #  Evaluation Results on Cityscapes
 ![](images/true_positives_cityscapes.png)
 #  Evaluation Results on Lost and Found
+![](images/true_positives_lostandfound.png)
 #  References
 <a id="1">[1]</a> 
 Cordts, Marius, et al. (2015). 
