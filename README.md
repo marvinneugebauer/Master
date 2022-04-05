@@ -6,7 +6,7 @@ In the following we propose and exermine a possible way how to improve the perfo
 #  Method
 
 ![](images/method.png)
-#  Evaluation Results
+#  Evaluation Results on Cityscapes
 #  References
 <a id="1">[1]</a> 
 Cordts, Marius, et al. (2015). 
