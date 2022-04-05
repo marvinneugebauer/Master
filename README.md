@@ -33,3 +33,5 @@ arXiv preprint arXiv:1907.10326 (2019).
 Godard, Clément, Oisin Mac Aodha, and Gabriel J. Brostow (2017). 
 Unsupervised monocular depth estimation with left-right consistency.
 arXiv preprint arXiv:1907.10326 (2019).
+
+# Acknowledgments
