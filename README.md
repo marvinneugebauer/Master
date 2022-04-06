@@ -6,10 +6,11 @@ In the following we propose and exermine a possible way how to improve the perfo
 #  Method
 
 ![](images/method.png)
-#  Evaluation Results on Cityscapes
+#  True Positive Results on Cityscapes
 ![](images/true_positives_cityscapes.png)
-#  Evaluation Results on Lost and Found
+#  True Positives Results on Lost and Found
 ![](images/true_positives_lostandfound.png)
+#  Recall Results on Lost and Found
 #  References
 <a id="1">[1]</a> 
 Cordts, Marius, et al. (2015). 
