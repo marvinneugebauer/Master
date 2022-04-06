@@ -10,7 +10,7 @@ In the following we propose and exermine a possible way how to improve the perfo
 ![](images/true_positives_cityscapes.png)
 #  True Positives Results on Lost and Found
 ![](images/true_positives_lostandfound.png)
-#  Recall Results on Lost and Found
+#  Results for the Recall
 #  References
 <a id="1">[1]</a> 
 Cordts, Marius, et al. (2015). 
