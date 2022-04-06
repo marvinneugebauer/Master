@@ -39,5 +39,5 @@ Unsupervised monocular depth estimation with left-right consistency.
 arXiv preprint arXiv:1907.10326 (2019).
 
 # Acknowledgments
-I would like to thank the creators of the Cityscapes dataset for their permission to use some images of that dataset in this 
+I would like to thank Cordts et al. (2015) of the Cityscapes dataset for their permission to use some images of that dataset in this 
 repository.
