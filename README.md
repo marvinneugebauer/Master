@@ -11,6 +11,7 @@ In the following we propose and exermine a possible way how to improve the perfo
 #  True Positives Results on Lost and Found
 ![](images/true_positives_lostandfound.png)
 #  Results for the Recall
+![](images/gains_recall.png)
 #  References
 <a id="1">[1]</a> 
 Cordts, Marius, et al. (2015). 
