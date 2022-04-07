@@ -13,7 +13,7 @@ In the following we propose and exermine a possible way how to improve the perfo
 #  Results for the Recall
 ![](images/gains_recall.png)
 #  Results for the Precision
-![](images/gains_recall.png)
+![](images/precision.png)
 #  References
 <a id="1">[1]</a> 
 Cordts, Marius, et al. (2015). 
