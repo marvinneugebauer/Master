@@ -6,7 +6,7 @@ One of the major issues in autonomous driving is the question of how an autonomo
 
 ![](images/method.png)
 #  Used Datasets
-The first dataset we are using in this evaluation is the Cityscapes dataset. The Cityscapes dataset was espicially generated to enable  the common prediction with the single prediction of the semantic segmentation
+The first dataset we are using in this evaluation is the Cityscapes dataset. The Cityscapes dataset was espicially generated to enable the ecavualtion of semantic segmentation algorithms in the context of street scenes and contains 5000 pixelwise annotated images, that are covering 50 different cities. The Cityscapes dataset can be found here.
 #  True Positive Results on Cityscapes
 ![](images/true_positives_cityscapes.png)
 #  True Positives Results on Lost and Found
