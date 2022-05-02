@@ -10,6 +10,7 @@ The first dataset we are using in this evaluation is the **Cityscapes** dataset.
 <br/>
 <br/>
 The second dataset we are utilizing is the **Lost and Found** dataset. Unlike the Cityscapes dataset the Lost and Found dataset has its focus on enabling semantic segmentation algorithms detecting small obstacles on the road (e.g. lost hazardous cargo), which can be potentially dangerous. The Lost and Found dataset can be found here: https://www.6d-vision.com/lostandfounddataset
+#  Used Networks
 #  True Positive Results on Cityscapes
 ![](images/true_positives_cityscapes.png)
 #  True Positives Results on Lost and Found
