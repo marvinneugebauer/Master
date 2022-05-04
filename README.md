@@ -14,7 +14,7 @@ The second dataset we are utilizing is the **Lost and Found** dataset. Unlike th
 We used two different types of networks. The first type is a  **semantic segmentation network** and the second typ is **depth network**. Within the depth networks we distinguish between two different types: Depth networks that make use of a **supervised learning approach** and those depth networks that make use of an **unsupervised learning approach**. 
 <br/>
 <br/>
-The semantic segmenation network
+The semantic segmenation network we are using throughout this examination can be found here: 
 #  True Positive Results on Cityscapes
 ![](images/true_positives_cityscapes.png)
 #  True Positives Results on Lost and Found
