@@ -18,7 +18,7 @@ The **semantic segmenation network** we are using throughout this examination ca
 1. https://github.com/cleinc/bts 
 2. https://github.com/mrharicot/monodepth 
 
-Where the **first depth net** uses a **supervised learning approach** and the **second depth net** uses an **unsupervised learning approach**.
+Where the first depth net uses a supervised learning approach and the second depth net uses an unsupervised learning approach.
 #  True Positive Results on Cityscapes
 ![](images/true_positives_cityscapes.png)
 #  True Positives Results on Lost and Found
