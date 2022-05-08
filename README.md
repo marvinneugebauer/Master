@@ -14,7 +14,7 @@ The **second dataset** we are utilizing is the **Lost and Found** dataset. Unlik
 We used two different types of networks. The first type is a  **semantic segmentation network** and the second typ is **depth network**. Within the depth networks we distinguish between two different types: Depth networks that make use of a **supervised learning approach** and those depth networks that make use of an **unsupervised learning approach**. 
 <br/>
 <br/>
-The **semantic segmenation network** we are using throughout this examination can be found here: https://github.com/bryanyzhu/semantic-segmentation. For the depth networks we are using, you can visit
+The **semantic segmenation network** we are using throughout this examination can be found here: https://github.com/bryanyzhu/semantic-segmentation. For the **depth networks** we are using, you can visit
 - https://github.com/cleinc/bts 
 for the supervised learning approach and
 - https://github.com/mrharicot/monodepth 
