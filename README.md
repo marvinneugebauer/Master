@@ -17,7 +17,8 @@ We used two different types of networks. The first type is a  **semantic segment
 The **semantic segmenation network** we are using throughout this examination can be found here: https://github.com/bryanyzhu/semantic-segmentation. For the **depth networks** we are using, you can visit
 1. https://github.com/cleinc/bts 
 2. https://github.com/mrharicot/monodepth 
-for the supervised learning approach andfor the unsupervised approach.
+
+Where the first depth net uses a supervised learning approach and the second depth net uses an unsupervised learning approach.
 #  True Positive Results on Cityscapes
 ![](images/true_positives_cityscapes.png)
 #  True Positives Results on Lost and Found
