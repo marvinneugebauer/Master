@@ -6,15 +6,15 @@ One of the major issues in autonomous driving is the question of how an autonomo
 
 ![](images/method.png)
 #  Used Datasets
-The first dataset we are using in this evaluation is the **Cityscapes** dataset. The Cityscapes dataset is a datasset, that is especially generated to enable the evaluation of semantic segmentation algorithms in the context of street scenes and contains 5000 pixel wise annotated images, that are covering 50 different cities. The Cityscapes dataset can be found here: https://www.cityscapes-dataset.com/
+The **first dataset** we are using in this evaluation is the **Cityscapes** dataset. The Cityscapes dataset is a datasset, that is especially generated to enable the evaluation of semantic segmentation algorithms in the context of street scenes and contains 5000 pixel wise annotated images, that are covering 50 different cities. The Cityscapes dataset can be found here: https://www.cityscapes-dataset.com/
 <br/>
 <br/>
-The second dataset we are utilizing is the **Lost and Found** dataset. Unlike the Cityscapes dataset the Lost and Found dataset has its focus on enabling semantic segmentation algorithms detecting small obstacles on the road (e.g. lost hazardous cargo), which can be potentially dangerous. The Lost and Found dataset can be found here: https://www.6d-vision.com/lostandfounddataset
+The **second dataset** we are utilizing is the **Lost and Found** dataset. Unlike the Cityscapes dataset the Lost and Found dataset has its focus on enabling semantic segmentation algorithms detecting small obstacles on the road (e.g. lost hazardous cargo), which can be potentially dangerous. The Lost and Found dataset can be found here: https://www.6d-vision.com/lostandfounddataset
 #  Used Networks
 We used two different types of networks. The first type is a  **semantic segmentation network** and the second typ is **depth network**. Within the depth networks we distinguish between two different types: Depth networks that make use of a **supervised learning approach** and those depth networks that make use of an **unsupervised learning approach**. 
 <br/>
 <br/>
-The semantic segmenation network we are using throughout this examination can be found here: https://github.com/bryanyzhu/semantic-segmentation. For the depth networks we are using, you can visit
+The **semantic segmenation network** we are using throughout this examination can be found here: https://github.com/bryanyzhu/semantic-segmentation. For the depth networks we are using, you can visit
 - https://github.com/cleinc/bts 
 for the supervised learning approach and
 - https://github.com/mrharicot/monodepth 
