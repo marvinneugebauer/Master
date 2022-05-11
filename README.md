@@ -11,7 +11,7 @@ The **first dataset** we are using in this evaluation is the **Cityscapes** data
 <br/>
 The **second dataset** we are utilizing is the **Lost and Found** dataset. Unlike the Cityscapes dataset, the Lost and Found dataset has its focus on enabling semantic segmentation algorithms detecting small obstacles on the road (e.g. lost hazardous cargo), which can be potentially dangerous. The Lost and Found dataset can be found [here](https://www.6d-vision.com/lostandfounddataset).
 #  Used Networks
-We used two different types of networks. The first type is a  **semantic segmentation network** and the second typ is **depth network**. Within the depth networks we distinguish between two different types: Depth networks that make use of a **supervised learning approach** and those depth networks that make use of an **unsupervised learning approach**. 
+We used two different types of networks. The first type is a  **semantic segmentation network** and the second type is a **depth network**. Within the depth networks, we distinguish between two different types: Depth networks that make use of a **supervised learning approach** and those depth networks that make use of an **unsupervised learning approach**. 
 <br/>
 <br/>
 The **semantic segmenation network** we are using throughout this examination can be found [here]( https://github.com/bryanyzhu/semantic-segmentation). For the **depth networks** we are using, you can visit
