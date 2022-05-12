@@ -58,7 +58,7 @@ class Dataloader:
     def get_binarization(self, image_non_bin):
         """
         For a given image, dataset and chosen kind of binarization (e.i. restrictive or nonrestrictive) this function
-        returns binarized image.
+        returns a binarized image.
         """
         labels_image = np.unique(image_non_bin)
         for trainId in labels_image:
