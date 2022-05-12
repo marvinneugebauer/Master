@@ -26,7 +26,7 @@ Where the first depth net takes a supervised learning approach and the second de
 #  Results for the Recall
 ![](images/gains_recall.png)
 #  Results for the Precision
-![](images/precision.png)
+![](images/precision_new.png)
 #  References
 <a id="1">[1]</a> 
 Cordts, Marius, et al. (2015). 
