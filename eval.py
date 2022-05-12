@@ -37,7 +37,8 @@ class Dataloader:
         print(self.dataset)
 
     def get_label(self):
-        """ Set the label according to the considered dataset which could be Cityscapes or Lost and Found. Within the
+        """ 
+        Set the label according to the considered dataset which could be Cityscapes or Lost and Found. Within the
         dataset the function makes a further distinction by setting the labels depending on the binarization that was
         chosen by the user.
         """
