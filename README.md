@@ -24,7 +24,7 @@ Where the first depth net takes a supervised learning approach and the second de
 #  True Positives Results on Lost and Found
 ![](images/true_positives_lostandfound.png)
 #  Results for the Recall
-![](images/recall.png)
+![](images/recall_1.png)
 #  Results for the Precision
 ![](images/precision_new.png)
 #  References
