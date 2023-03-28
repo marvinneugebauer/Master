@@ -29,7 +29,7 @@ Where the first depth net takes a supervised learning approach and the second de
 ![](images/precision_new.png)
 
 # Appendix
-The research of my master thesis was acknowleded in this [scientific paper](https://arxiv.org/pdf/2207.03513.pdf).
+The research of my master thesis was acknowledged in this [scientific paper](https://arxiv.org/pdf/2207.03513.pdf).
 
 #  References
 <a id="1">[1]</a> 
